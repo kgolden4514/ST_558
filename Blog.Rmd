@@ -1,0 +1,16 @@
+---
+title: "Project 2 Blog Post"
+author: "Kristina Golden"
+date: "2023-07-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hello my name is Louise
+
+```{r}
+plot(iris)
+```

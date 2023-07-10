@@ -30,7 +30,7 @@ titles_from_headings:
 defaults:
   - scope:
       path: ""
-      type: _Rmd
+      type: Post
     values:
       tags: Other
 permalink: /:title.html
